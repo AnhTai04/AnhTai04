@@ -1,6 +1,13 @@
 <div align="center"> 
+     <h1> XIN CHÀO 
+       </br> HELLO
+       </br> こんにちは
+       </br> 你好
+    
+    
+                
 <h1 >ANH TAI </h1>
-  <img src="https://img.icons8.com/stickers/100/000000/user-male.png"/>
+  <img witdh="150px" src="https://img.icons8.com/stickers/100/000000/user-male.png"/>
 </div>
 <p align="center"><img  src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Students in Viet Nam</h3>
