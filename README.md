@@ -5,7 +5,7 @@
 <p align="center"><img  src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Students in Viet Nam</h3>
 
-- I'm a student of: [FPT HO CHI MINH UNIVERSITY](https://hcmuni.fpt.edu.vn) (FU).
+- I'm a student of: [NGA NAM HIGH SCHOOL] (https://thptnganamst.edu.vn)
 
 <h3> Contact me by: </h3>
 <p align="center">
