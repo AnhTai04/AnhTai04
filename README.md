@@ -12,7 +12,7 @@
 <p align="center"><img  src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Students in Viet Nam</h3>
 
-- I'm a student of: <a href="https://thptnganamst.edu.vn"> NGA NAM HIGH SCHOOL </a>
+- I'm a student of: <a href="https://hcmuni.fpt.edu.vn"> FPT HCM UNIVERSITY </a>
 
 <h3> Contact me by: </h3>
 <p align="center">
